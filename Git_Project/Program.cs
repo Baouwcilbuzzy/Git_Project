@@ -10,13 +10,15 @@ namespace Git_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(­­"Hello World");
+            Console.WriteLine("Hello Basil");
             Console.WriteLine("My name is : ");
             Console.WriteLine("Choisissez un nombre");
 
             // Voici un commentaire
             
             // Salut
+
+            // WOWOWOWOWOWOWOWOWOWOWOWOWOWOWOW
 
             Random générateurAléatoire = new Random();
         }
